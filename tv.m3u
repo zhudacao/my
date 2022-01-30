@@ -9,6 +9,9 @@ http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 #EXTINF:-1 ,东森新闻台
 http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 
+#EXTINF:-1 ,TVB新闻
+http://ye23.win/iptv/tvb.php?id=1
+
 #EXTINF:-1 ,半岛电视台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 ,美国新闻CBS News 1
@@ -63,6 +66,9 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
 
 #EXTINF:-1,CCTV-13 新闻2
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+
+#EXTINF:-1,CCTV-13 新闻3
+http://39.135.46.246:6610/PLTV/77777777/224/3221225787/index.m3u8?
 
 #EXTINF:-1,湖南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
