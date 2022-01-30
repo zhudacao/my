@@ -43,6 +43,9 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 #EXTINF:-1,CCTV-1 综合
 http://ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
 
+#EXTINF:-1,CCTV-1 综合1
+http://39.135.46.246:6610/PLTV/77777777/224/3221225888/index.m3u8?
+
 #EXTINF:-1,CCTV-2 财经
 http://ott.js.chinamobile.com/PLTV/3/224/3221227427/index.m3u8
 
